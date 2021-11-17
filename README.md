@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elizah!
 - 👀 I’m interested in writing, photography, and design. 
 - 🌱 I’m currently learning documentation technologies, basic coding, and design. 
-- 💞️ I’m looking to collaborate on documentation projects, community engagement, and just about everyting else.
+- 💞️ I’m looking to collaborate on documentation projects, community engagement, and just about everything else.
 - 📫 Want to collaborate? Email me at elizahgdr@gmail.com
 
 <!---
